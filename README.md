@@ -1,6 +1,3 @@
-Certainly, Zubair. Below is a professionally crafted `README.md` tailored to your **Movie Recommendation System with Collaborative and Content-Based Filtering**, following the structure and style of your previous Customer Churn project.
-
----
 
 ````markdown
 🧠 Movie Recommendation System with Collaborative & Content-Based Filtering  
